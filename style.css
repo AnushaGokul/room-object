@@ -1,0 +1,38 @@
+
+#heading {
+    background-color: aliceblue;
+    color: black;
+    font-size: 25px;
+    padding: 5px;
+    margin-bottom: 80px;
+  }
+  .options {
+    background-color: rgb(212, 230, 241);
+    color: teal;
+    width: 500px;
+    border-radius: 75px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    box-shadow: 10xp 10px 10px darkslategray;
+  }
+  
+  .heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+  }
+  
+  #status {
+    font-size: 18px;
+  }
+  canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+  }
+  #btn_back {
+    background-image: "btn.png";
+    width: 80px;
+    height: 50px;
+    margin: 500px;
+  }
+  
